@@ -1,0 +1,1 @@
+The Odin Project assignment to recreate the basic Google results page, with limited functionality. This optional lesson is meant to teach basic html and css, with a higher degree of difficulty than the previous lesson (google homepage).
